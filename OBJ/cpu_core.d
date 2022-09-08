@@ -1,0 +1,11 @@
+..\obj\cpu_core.o: ..\uCOS-III\CPU\cpu_core.c
+..\obj\cpu_core.o: ..\uCOS-III\CPU\cpu_core.h
+..\obj\cpu_core.o: ..\uCOS-III\CPU\cpu.h
+..\obj\cpu_core.o: ..\uCOS-III\CPU\cpu_def.h
+..\obj\cpu_core.o: ..\uCOS-III\Config\cpu_cfg.h
+..\obj\cpu_core.o: ..\uCOS-III\Lib\lib_def.h
+..\obj\cpu_core.o: ..\uCOS-III\Lib\lib_mem.h
+..\obj\cpu_core.o: ..\uCOS-III\CPU\cpu_core.h
+..\obj\cpu_core.o: ..\uCOS-III\Config\lib_cfg.h
+..\obj\cpu_core.o: ..\uCOS-III\Lib\lib_str.h
+..\obj\cpu_core.o: ..\uCOS-III\Lib\lib_ascii.h

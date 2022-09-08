@@ -1,0 +1,72 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "gcc",
+  "C_Cpp_Runner.cppCompilerPath": "g++.exe",
+  "C_Cpp_Runner.debuggerPath": "gdb.exe",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\CORE",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\SYSTEM\\delay",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\SYSTEM\\sys",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\SYSTEM\\usart",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\USER",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\FWLIB\\inc",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\SYSTEM\\bitband",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\HARDWARE\\i2c",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\HARDWARE\\led",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\HARDWARE\\spi",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\HARDWARE\\tim",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\HARDWARE\\usart",
+    "E:\\KEIL\\ARM\\ARMCC\\include",
+    "E:\\KEIL\\ARM\\ARMCC\\include\\rw",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\FWLIB\\src",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\SYSTEM\\systick",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0\\SYSTEM\\para",
+    "f:\\资料整理\\STM32F4\\stm32f407ze_Prj\\Template工程模板_V2.0"
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "files.associations": {
+    "stm32f4xx.h": "c",
+    "systick.h": "c",
+    "datatype.h": "c",
+    "schedule.h": "c",
+    "usart1.h": "c",
+    "para.h": "c",
+    "stm32f4xx_it.h": "c",
+    "bitband.h": "c",
+    "usart4.h": "c",
+    "stdio.h": "c",
+    "stdint.h": "c",
+    "math.h": "c",
+    "sysconfig.h": "c",
+    "includes.h": "c",
+    "explore_systick.h": "c",
+    "i2c.h": "c",
+    "sys.h": "c",
+    "type_conversion.h": "c",
+    "flow.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Enabled"
+}

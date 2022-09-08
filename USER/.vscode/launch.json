@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "f:/资料整理/STM32F4/stm32f407ze_Prj/Template工程模板_V2.0/SYSTEM/systick",
+      "program": "f:/资料整理/STM32F4/stm32f407ze_Prj/Template工程模板_V2.0/SYSTEM/systick/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
